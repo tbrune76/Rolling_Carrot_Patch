@@ -1,9 +1,12 @@
 # Rolling_Carrot_Patch
 Mod of Ettes Carrot Patch to use rollers
 
-
-The 120mm version additionally needs:
+For each Patch you need:
 
 4x 608 Bearings
+8mm diameter aluminum rod/tube
 
-2x 180mm 8mm diam rod/tube (might be leftovers of ERCF)
+The 90mm version needs 2x 150mm
+
+The 120mm version needs 2x 180mm
+
